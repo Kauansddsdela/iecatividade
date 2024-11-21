@@ -11,4 +11,4 @@ async function consultarCep(cep) {
 }
 
 // Consultar um CEP de exemplo
-consultarCep('01001000');
+consultarCep('08295005');
